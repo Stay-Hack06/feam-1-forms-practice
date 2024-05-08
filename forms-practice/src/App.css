@@ -1,0 +1,10 @@
+form {
+  display: flex;
+  max-width: 750px;
+  align-items: left;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 60vh;
+  margin: 100px;
+  
+}
